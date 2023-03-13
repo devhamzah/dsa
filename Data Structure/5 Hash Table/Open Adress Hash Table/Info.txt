@@ -1,0 +1,5 @@
+  I dont want to implement this sooo booring!
+
+1.Use better hash function.
+2.Use linear Probing || Qudratic Probing for handling collisions.
+2.Use dubble hash for handling collisions.
